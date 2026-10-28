@@ -1,0 +1,6 @@
+{
+  "name": "Polyglot Language Translation Tool",
+  "description": "Full-stack language translator with auto-detection, text-to-speech, speech recognition, in-memory caching, rate limiting, and swappable provider architecture.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
